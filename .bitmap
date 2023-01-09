@@ -10,17 +10,10 @@
 
 {
     "submit-button": {
-        "scope": "",
-        "version": "",
-        "defaultScope": "kolodziejczakm.kolodziejczakm-components",
+        "scope": "kolodziejczakm.kolodziejczakm-components",
+        "version": "bb41ea255ae59bfe843504032f8803739044d5e2",
         "mainFile": "index.ts",
-        "rootDir": "kolodziejczakm-components/submit-button",
-        "config": {
-            "teambit.react/react": {},
-            "teambit.envs/envs": {
-                "env": "teambit.react/react"
-            }
-        }
+        "rootDir": "kolodziejczakm-components/submit-button"
     },
     "$schema-version": "15.0.0"
 }
